@@ -1,0 +1,3 @@
+com\loka\apigateway\JwtAuthFilter$Config.class
+com\loka\apigateway\ApiGatewayApplication.class
+com\loka\apigateway\JwtAuthFilter.class

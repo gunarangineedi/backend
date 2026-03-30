@@ -1,0 +1,9 @@
+com\loka\productservice\config\SecurityConfig.class
+com\loka\productservice\ProductServiceApplication.class
+com\loka\productservice\model\Product.class
+com\loka\productservice\dto\ProductDTO.class
+com\loka\productservice\model\Product$ProductBuilder.class
+com\loka\productservice\repository\ProductRepository.class
+com\loka\productservice\dto\ProductDTO$ProductDTOBuilder.class
+com\loka\productservice\controller\ProductController.class
+com\loka\productservice\service\ProductService.class
