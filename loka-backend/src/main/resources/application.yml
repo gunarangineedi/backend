@@ -3,9 +3,9 @@ server:
 
 spring:
   datasource:
-    url: ${DB_URL}
-    username: ${DB_USER}
-    password: ${DB_PASS}
+    url: postgresql://guna:PyAeMVhZ4aH38jNe7ZZFOvyAnBKhJuZw@dpg-d75ma66uk2gs73dbs4b0-a/loka_database_plza
+    username: guna
+    password: PyAeMVhZ4aH38jNe7ZZFOvyAnBKhJuZw
     driver-class-name: org.postgresql.Driver
 
   jpa:
